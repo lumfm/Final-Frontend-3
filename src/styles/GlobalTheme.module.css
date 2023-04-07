@@ -1,0 +1,15 @@
+.dark{
+    background-color: grey;
+    color: white;
+}
+
+.light{
+    background-color: #eeeeee;
+    color: black;
+}
+
+.footer{
+    border-top: 2px solid #e4e4e4;
+    padding: 30px;
+    text-align: center;
+}
